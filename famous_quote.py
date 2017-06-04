@@ -1,0 +1,3 @@
+name = "albert einstein"
+quote = "A human being is part of the whole, \ncalled by us, universe. We experience ourselves, our thoughts and feelings as something\n seperate from the rest. A kind of optical dillusion of consciousness. This dillusion is a kind of prison for us,\n restricting us to our personal desires and to affection for the few nearest to us. Our task must be to free ourselves from this prison by widening our circle of compassion to embrace all living creatures and the whole of nature in its beauty. The true value of a human being is determined by the measure and tthe sense with which they have obtained liberation from the self."
+print(name.title() + " once said: " + quote)
